@@ -6419,13 +6419,21 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1221407580}
+    - target: {fileID: 6620959289669861420, guid: 8c5a04913fb625a4ab1db6210fd671ce, type: 3}
+      propertyPath: m_Size.x
+      value: 254.32832
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620959289669861420, guid: 8c5a04913fb625a4ab1db6210fd671ce, type: 3}
+      propertyPath: m_Size.y
+      value: 150.85902
+      objectReference: {fileID: 0}
     - target: {fileID: 8409650718709141419, guid: 8c5a04913fb625a4ab1db6210fd671ce, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.44
+      value: 117.9805
       objectReference: {fileID: 0}
     - target: {fileID: 8409650718709141419, guid: 8c5a04913fb625a4ab1db6210fd671ce, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.14
+      value: 59.2892
       objectReference: {fileID: 0}
     - target: {fileID: 8409650718709141419, guid: 8c5a04913fb625a4ab1db6210fd671ce, type: 3}
       propertyPath: m_LocalPosition.z
